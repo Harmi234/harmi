@@ -1,0 +1,57 @@
+
+
+
+#box1{
+    display: flex;
+    justify-content:space-between;
+    padding: 20px;
+    border-style: ridge;
+    border-color: black;
+    background-color: blue;
+    color: black;
+    height: 40px;
+}
+#div1{
+    height: 350px;
+    width: 300px;
+    border-style: ridge;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-bottom: 1px solid black;
+}
+#class{
+    height: 50px;
+    width: 150px;
+    background-color: darkblue;
+    color: black;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    border-radius
+}
+#h1{
+    height: 50px;
+    width: 50px;
+    border-radius:6px;
+}
+
+
+
+#main {
+    display: flex;
+    text-align: center;
+    padding: 3px;
+    margin-left: 100px;
+    
+    
+    
+    
+}
+
+#a1 {
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
